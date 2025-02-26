@@ -1,8 +1,14 @@
 # Traitor
 
+<<<<<<< HEAD
 Modifications that were made by trxumx:
 1. this file was modified by trxumx
 2. trxumx was here once again
+=======
+This part was modified by trxumx:
+1. Modified by trxumx
+2. trxumx was here
+>>>>>>> branch1
 
 Automatically exploit low-hanging fruit to pop a root shell. Linux privilege escalation made easy!
 
